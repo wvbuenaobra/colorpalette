@@ -1,0 +1,74 @@
+/*css reset*/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container {
+	width: 700px;
+	height: 650px;
+	margin: 0 auto;
+}
+
+.heading {
+	text-align: center;
+	height: 50px;
+	margin-left: 100px;
+}
+
+.sel-color {
+	width: 100px;
+	height: 600px;
+	float: left;
+	text-align: center;
+}
+
+.disp-color {
+	width: 600px;
+	height: 200px;
+	margin-left: 100px;
+}
+
+.box{
+	width: 300px;
+	height: 200px;
+	float: left;
+	border: 1px solid black;
+}
+
+.sel-circle {
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+	margin-bottom: 10px;
+	border: 3px solid black;
+}
+
+#sel-red {
+	background-color: red;
+}
+
+#sel-orange {
+	background-color: darkorange;
+}
+
+#sel-yellow {
+	background-color: yellow;
+}
+
+#sel-green {
+	background-color: green;
+}
+
+#sel-blue {
+	background-color: blue;
+}
+
+#sel-violet {
+	background-color: darkviolet;
+}
+
+#sel-pink {
+	background-color: pink;
+}
